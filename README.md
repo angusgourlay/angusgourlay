@@ -6,6 +6,5 @@
 - Private LeetCode repository — Data Structures & Algorithms
 - C++ Project
 
-### Interests
-Software Engineering • Algorithms & Data Structures • C++ • FinTech
+
 
