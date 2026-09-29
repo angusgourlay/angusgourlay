@@ -1,4 +1,11 @@
-## Angus Gourlay
-## 3rd Year MEng Computer Science Student at University of Strathclyde 
-## Currently working on: Private LeetCode repo + C++ Project
+# Angus Gourlay
+
+### 3rd Year MEng Computer Science Student at University of Strathclyde
+
+ **Currently working on**
+- Private LeetCode repository — Data Structures & Algorithms
+- C++ Project
+
+### Interests
+Software Engineering • Algorithms & Data Structures • C++ • FinTech
 
